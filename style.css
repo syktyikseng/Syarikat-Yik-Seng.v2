@@ -208,7 +208,7 @@ h2 { font-size: clamp(42px, 5vw, 70px); }
   border: 1px solid var(--line);
   border-radius: var(--radius);
   overflow: hidden;
-  background: #fff;
+  background: #ffA500;
 }
 
 .tyre-photo { height: 290px; }
