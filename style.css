@@ -208,12 +208,12 @@ h2 { font-size: clamp(42px, 5vw, 70px); }
   border: 1px solid var(--line);
   border-radius: var(--radius);
   overflow: hidden;
-  background: #FFA500;
+  background: #FFF;
 }
 
 .tyre-photo { height: 290px; }
 .tyre-card h3 { padding: 24px 24px 5px; font-size: 22px; }
-.tyre-card p { padding: 0 24px 26px; color: #FFA500 ; font-size: 14px; }
+.tyre-card p { padding: 0 24px 26px; color: var(--muted) ; font-size: 14px; }
 
 .dealer-block, .other-brands, .find-tyre {
   margin-top: 70px;
